@@ -4,7 +4,7 @@ This repository contains slides/papers delivered in the paperclubs hosted by LSB
 
 Some of the slides/notes/papers are stored in the repository, indexed by Name-Date-Topic
 
-## List of Topics Delivered (Renew Time after Time)
+## List of Topics Delivered (Till Today)
 
 1. **Sparse Recovery** by Li Cehng
 2. **Latent Dirichlet Allocation** by Zhu Bencong
